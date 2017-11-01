@@ -28,8 +28,7 @@ Assignment (10 pts):
 
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
-| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   | 
-|:----------------------|:-----------------|:--------------------------|  
+| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |   
 | Deric Liang     | dliang5299     | <https://dliang5299.github.io/Demo-Repo/>   | 
 
 <br>
